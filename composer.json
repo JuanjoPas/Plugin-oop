@@ -1,0 +1,17 @@
+{
+    "name": "juanjo/mipluginoopreutilizable",
+    "description": "Plugin OOP",
+    "autoload": {
+        "psr-4": {
+            "MiPluginOOPReutilizable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juanjo"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.8"
+    }
+}
